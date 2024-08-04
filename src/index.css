@@ -56,6 +56,10 @@
 .btn-login{
     width: 150px;
     height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
     margin-bottom: 20px;
     font-weight: bold;
     background-color: #3b2a54;

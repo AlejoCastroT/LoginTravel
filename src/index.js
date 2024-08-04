@@ -8,7 +8,7 @@ import Login from './Login/Login';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-        <Router>
+    <Router>
       <Routes>
         <Route path="/" element={<Index />} />
         <Route path="/login" element={<Login />} />
