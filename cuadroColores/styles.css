@@ -1,0 +1,110 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: #fff;
+}
+.contenedorInicial{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+}
+
+.numerouno{
+    background-color:#1bbc9b;
+    height: 50px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.numerodos{
+    background-color:#3598db;
+    height: 50px;
+    width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.numerotres{
+    background-color:#9959b7;
+    height: 50px;
+    width: 140px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.numerocuatro{
+    background-color:#374961;
+    height: 50px;
+    width: 140px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.numerocinco{
+    background-color:#f2c512;
+    height: 50px;
+    width: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.numeroseis{
+    background-color:#e78024;
+    height: 50px;
+    width: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contenedorGrande {
+    border: solid 5px red;
+    display: flex; 
+    width: 98vw; 
+    text-align: center;
+}
+
+.contenedorUno, .contenedorDos {
+    flex: 1;
+    box-sizing: border-box; 
+    display: flex;
+    flex-direction: column; 
+}
+
+.uno{
+    background-color:#1bbc9b;
+    height: 210px;
+}
+
+.dos{
+    background-color:#3598db;
+    height: 210px;
+}
+
+.tres{
+    background-color:#9959b7;
+    height: 250px;
+}
+
+.cuatro{
+    background-color:#374961;
+    height: 110px;
+}
+
+.cinco{
+    background-color:#f2c512;
+    height: 50%;
+
+}
+
+.seis{
+    background-color:#e78024;
+    height: 50%;
+}

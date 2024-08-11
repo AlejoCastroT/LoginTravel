@@ -1,0 +1,197 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: #fff;
+}
+
+.container-numeros {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.numeros1 {
+    display: flex;
+    background-color: rgb(86, 224, 155);
+    width: 100px;
+    height: 50px;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.numeros2 {
+    display: flex;
+    background-color:blue;
+    height: 50px;
+    width: 200px;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.numeros3 {
+    display: flex;
+    background-color:rgb(146, 8, 238);
+    height: 50px;
+    width: 100px;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.numeros4 {
+    display: flex;
+    background-color:rgb(59, 58, 59);
+    height: 50px;
+    width: 100px;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.numeros5 {
+    display: flex;
+    background-color:yellow;
+    height: 50px;
+    width: 300px;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.numeros6 {
+    display: flex;
+    background-color:rgb(247, 115, 7);
+    height: 50px;
+    width: 100px;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.container-grande{
+    border: solid 5px red;
+    display: flex; 
+    width: 98vw; 
+    text-align: center;
+}
+
+.uno {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+    height: 50px;
+    width: 200px;
+    color: white;
+    font-size: 30px;
+}
+
+.dos {
+    background-color:blue;
+    width: 200px;
+    color: white;
+    font-size: 30px;
+}
+
+.tres {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:rgb(146, 8, 238);
+    height: 50px;
+    width: 200px;
+    color: white;
+    font-size: 30px;
+}
+
+.cuatro {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(59, 58, 59);
+    height: 50px;
+    width: 200px;
+    color: white;
+    font-size: 30px;
+}
+
+.cinco {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: yellow;
+    height: 50px;
+    width: 200px;
+    color: white;
+    font-size: 30px;
+}
+
+.seis {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(247, 115, 7);
+    height: 50px;
+    width: 200px;
+    margin-top: 400px;
+    color: white;
+    font-size: 30px;
+}
+
+.siete {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(88, 87, 154);
+    height: 50px;
+    width: 200px;
+    color: white;
+    font-size: 30px;
+}
+
+.ocho {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(0, 0, 0);
+    height: 50px;
+    width: 200px;
+    color: white;
+    font-size: 30px;
+}
+
+.nueve {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(255, 51, 0);
+    height: 70px;
+    width: 200px;
+    margin-top: 730px;
+    color: white;
+    font-size: 30px;
+}
+
+.diez {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(8, 112, 112);
+    height: 50px;
+    width: 200px;
+    color: white;
+    font-size: 30px;
+}
